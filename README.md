@@ -1,3 +1,10 @@
+#  Dotty-tree
+
+Project to test implementation of a function that adds an id to a tree in dotty
+
+For blog post:
+[https://benoitpas.github.io/Dotty/](https://benoitpas.github.io/Dotty/)
+
 ## sbt project compiled with Dotty
 
 ### Usage
